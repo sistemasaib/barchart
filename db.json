@@ -1,2 +1,4 @@
-{"enero": {"errores_de_surtido": 5},"febrero": {"errores_de_surtido": 3},"marzo": {"errores_de_surtido": 7},"abril": {"errores_de_inventario": 6},"mayo": {"errores_de_facturación": 1},"junio": {"errores_de_inventario": 3},
-  "julio": {"errores_de_facturación": 2}}
+{"enero": 
+  {"errores_de_surtido": 5},
+  "febrero": {"errores_de_surtido": 3}
+}
