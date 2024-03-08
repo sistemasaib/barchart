@@ -4,11 +4,6 @@
   },
   "febrero": {
     "errores_de_surtido": 3,
-    "errores_de_facturación": 2
-  },
-  "marzo": {
-    "errores_de_surtido": 7,
-    "errores_de_inventario": 4
   },
   "abril": {
     "errores_de_inventario": 6
