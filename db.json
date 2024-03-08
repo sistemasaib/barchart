@@ -1,4 +1,8 @@
-{"enero": 
-  {"errores_de_surtido": 5},
-  "febrero": {"errores_de_surtido": 3}
+{
+  "enero": {
+    "errores_de_surtido": 5
+  },
+  "febrero": {
+    "errores_de_surtido": 3
+  }
 }
