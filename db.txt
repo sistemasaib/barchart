@@ -1,0 +1,44 @@
+{
+  "enero": {
+    "errores_de_surtido": 5
+  },
+  "febrero": {
+    "errores_de_surtido": 3,
+    "errores_de_facturación": 2
+  },
+  "marzo": {
+    "errores_de_surtido": 7,
+    "errores_de_inventario": 4
+  },
+  "abril": {
+    "errores_de_inventario": 6
+  },
+  "mayo": {
+    "errores_de_facturación": 1,
+    "errores_de_surtido": 2
+  },
+  "junio": {
+    "errores_de_inventario": 3
+  },
+  "julio": {
+    "errores_de_facturación": 2,
+    "errores_de_surtido": 4
+  },
+  "agosto": {
+    "errores_de_inventario": 5
+  },
+  "septiembre": {
+    "errores_de_surtido": 6
+  },
+  "octubre": {
+    "errores_de_inventario": 3,
+    "errores_de_facturación": 1
+  },
+  "noviembre": {
+    "errores_de_surtido": 2
+  },
+  "diciembre": {
+    "errores_de_facturación": 3,
+    "errores_de_inventario": 2
+  }
+}
